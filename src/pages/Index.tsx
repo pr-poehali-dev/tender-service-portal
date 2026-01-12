@@ -36,7 +36,7 @@ const Index = () => {
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto text-center text-primary-foreground animate-fade-in">
             <h1 className="text-4xl md:text-6xl font-heading font-bold mb-6">
-              Профессиональное участие в тендерах по 44-ФЗ и 223-ФЗ
+              Комплексное тендерное сопровождение по всей России
             </h1>
             <p className="text-lg md:text-xl mb-8 opacity-90">
               Увеличьте свои шансы на победу в государственных закупках с командой экспертов
