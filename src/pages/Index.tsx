@@ -334,7 +334,7 @@ const Index = () => {
                   <div className="flex items-start gap-3">
                     <Icon name="Phone" size={20} className="text-accent mt-1" />
                     <div>
-                      <p className="font-semibold">+7 (495) 123-45-67</p>
+                      <p className="font-semibold">+7 (914) 177-39-39</p>
                       <p className="text-sm text-muted-foreground">Ежедневно с 9:00 до 21:00</p>
                     </div>
                   </div>
@@ -391,7 +391,7 @@ const Index = () => {
             <div>
               <h4 className="font-semibold mb-4">Контакты</h4>
               <ul className="space-y-2 text-sm opacity-90">
-                <li>+7 (495) 123-45-67</li>
+                <li>+7 (914) 177-39-39</li>
                 <li>info@tenderpro.ru</li>
                 <li>Москва, ул. Примерная, д. 1</li>
               </ul>
